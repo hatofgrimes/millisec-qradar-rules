@@ -1,0 +1,6 @@
+{
+  "name": "Custom - New User Account Created",
+  "enabled": true,
+  "response_limit": 0,
+  "rule_type": "EVENT"
+}
